@@ -1,6 +1,8 @@
-# SAMeet - Student Association Meetings
+# OAuth - 2.0 with Google Calendar
 
-**OAuth - 2.0 with Google Calendar**
+**Meetings appending system with Google Calendar using OAuth 2.0, JSON, and PHP for a particular organization.**
+
+## SAMeet - Student Association Meetings
 
 **[Video Demonstration](https://sameet.herokuapp.com)**
 
