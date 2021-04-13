@@ -12,7 +12,7 @@
 Download and extract the "sameet" repository.
 
 ### Step 2
-Run a local server from WAMPP / XAMPP or any other web server.
+Run a local server from WAMP / XAMPP or any other web server.
 
 ### Step 3
 Copy the "sameet" folder to the host directory.
