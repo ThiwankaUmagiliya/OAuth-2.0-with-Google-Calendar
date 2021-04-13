@@ -4,7 +4,7 @@
 
 ## SAMeet - Student Association Meetings
 
-**[Video Demonstration](https://sameet.herokuapp.com)**
+**[Video Demonstration](https://www.youtube.com/watch?v=hwU6c1-tAfU)**
 
 ## Testing process on Localhost
 
